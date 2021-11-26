@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Jurcau_Iulia_Lab8_1Context"
+    }
+  }
+}
